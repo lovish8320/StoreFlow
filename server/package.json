@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/armaanjaj/myinventory.git"
+  
   },
   "keywords": [
     "inventory"
   ],
   "author": "Armaan Jaj",
-  "homepage": "https://github.com/armaanjaj/myinventory#readme",
+
   "dependencies": {
     "body-parser": "^1.20.0",
     "cookie-parser": "^1.4.6",
